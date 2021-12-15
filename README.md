@@ -1,4 +1,4 @@
-### Iai tudo bem? eu sou Mateus Magalhaes
+### Ola, eu sou Mateus Magalhaes
 
 
 - ⏳  Conhecimento em JavaScript, TypeScript, Node, React, HTML e CSS
