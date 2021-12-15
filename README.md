@@ -1,7 +1,7 @@
 ### Iai tudo bem? eu sou Mateus Magalhaes
 
 
-- ⏳  JavaScript, TypeScript, Node, React, HTML e CSS
+- ⏳  Conhecimento em JavaScript, TypeScript, Node, React, HTML e CSS
 - 🌱 Desenvolvedor Full stack 
 
 <div align="center">
