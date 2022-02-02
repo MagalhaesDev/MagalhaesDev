@@ -1,8 +1,8 @@
 ### Ola, eu sou Mateus Magalhaes
 
 
-- ⏳  Conhecimento em JavaScript, TypeScript, Node, React, HTML e CSS
-- 🌱 Desenvolvedor Full stack 
+- ⏳  Conhecimento em JavaScript, Node, React, HTML e CSS
+- 🌱 Desenvolvedor Front End
 
 <div align="center">
   <a href="https://github.com/MagalhaesDev">
