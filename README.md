@@ -1,7 +1,7 @@
 ### Ola, eu sou Mateus Magalhaes
 
 
-- ⏳  Conhecimento em JavaScript, React, HTML e CSS
+- ⏳  Conhecimento em JavaScript, React, Bootstrap, HTML e CSS
 - 🌱 Desenvolvedor Front End
 
 <div align="center">
