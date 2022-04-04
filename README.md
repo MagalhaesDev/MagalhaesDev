@@ -1,4 +1,4 @@
-### Ola, eu sou Mateus Magalhaes
+### Hello, I am Mateus Magalhães
 
 
 - ⏳  Knowledge in JavaScript, React, Bootstrap, HTML e CSS
