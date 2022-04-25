@@ -1,8 +1,8 @@
 ### Hello, I am Mateus Magalhães
 
 
-- ⏳  Knowledge in JavaScript, Typescript, NodeJs, React, Bootstrap, HTML e CSS(SCSS) 
-- 🌱 Developer Full stack
+- ⏳  Knowledge in JavaScript, Typescript, React, Bootstrap, HTML e CSS(SCSS),NodeJs
+- 🌱 Developer FrontEnd
 
 <div align="center">
   <a href="https://github.com/MagalhaesDev">
